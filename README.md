@@ -34,21 +34,21 @@ Modified and analyzied the Crowdfunding data of 1,000 example projects in an att
 
     * Created a stacked column pivot chart that can be filtered by country based on the pivot table created.
     
- ![Category Stats](Resources/Category_Stats.PNG)
+ ![Category Stats](Resources/Category_Stats.png)
  
 
 3. Created a new sheet with a pivot table that will analyze the initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
     * Created a stacked column pivot chart that can be filtered by country and parent-category based on the pivot table created.
 
- ![Subcategory Stats](Resources/Subcategory_Stats.PNG)
+ ![Subcategory Stats](Resources/Subcategory_Stats.png)
 
  
 4. Created a new sheet with a pivot table with a column of `outcome`, rows of `Date Created Conversion`, values based on the count of `outcome`, and filters based on `parent category` and `Years`.
 
 * Then created a pivot chart line graph that visualizes this new table.
 
- ![Outcomes Based on Launch Date](Resources/Outcome_Based_LaunchedDate.PNG)
+ ![Outcomes Based on Launch Date](Resources/Outcome_Based_LaunchedDate.png)
  
   
 ## Bonus_Challenge_1
@@ -85,7 +85,7 @@ Modified and analyzied the Crowdfunding data of 1,000 example projects in an att
 
 * Created a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-![Goal Outcomes](Resources/Outcomes_BasedOn_Goal.PNG)
+![Goal Outcomes](Resources/Outcomes_BasedOn_Goal.png)
 
 
 ## Bonus_Challenge_2_Statistical Analysis
@@ -104,4 +104,4 @@ Modified and analyzied the Crowdfunding data of 1,000 example projects in an att
 ![backers01.png](Resources/backers_01.png)
 
 ## Updated Excel
-![Updated Excel](Resources/Updated_crowdfundingbook.PNG)
+![Updated Excel](Resources/Updated_crowdfundingbook.png)
