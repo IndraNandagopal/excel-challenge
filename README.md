@@ -104,4 +104,4 @@ Modified and analyzied the Crowdfunding data of 1,000 example projects in an att
 ![backers01.png](Resources/backers_01.png)
 
 ## Updated Excel
-![Updated Excel](Resources/Updated_crowdfundingbook.png)
+![Updated Excel](Resources/Updated_crowdfundingBook.png)
